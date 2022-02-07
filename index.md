@@ -6,7 +6,7 @@
 
 [City Slums](https://domdar.itch.io/city-sim)
 <img src="https://img.itch.zone/aW1hZ2UvMTI1MTk4OS83MzA3MzMxLnBuZw==/original/wXv2G7.png"/>
-<br><br>This project was made during the course of my Unity educations<br><br>
+<br><br>This project was made during the course of my Unity education.<br><br>
 
 ---
 [Test](/images/snowflake.png)
