@@ -23,8 +23,8 @@
 ### Level Design
 
 - [Grimblade]
- <img src="images/Islandlvldesign.jpeg?raw=true"/>
- <img src="images/Townlvldesign.jpeg?raw=true"/>
+ <img src="images/Islandlvldesign.png?raw=true"/>
+ <img src="images/Townlvldesign.png?raw=true"/>
 
 ---
 ### Apps
