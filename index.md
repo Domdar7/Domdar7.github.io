@@ -31,7 +31,7 @@
 
 [GymAr]
 <img src="images/GymAr.jpeg?raw=true"/>
-<img src="blob:https://web.whatsapp.com/3f12656b-1997-4bce-b8de-cee5278d6419"/>
+<img src="images/GymArTwo.jpeg?raw=true"/>
 
 
 
