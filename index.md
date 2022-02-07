@@ -30,7 +30,7 @@
 ### Apps
 
 [GymAr]
-<img src="blob:https://web.whatsapp.com/e8025429-4db7-4c2e-8204-73f91f07989b"/>
+<img src="images/GymAr.jpeg?raw=true"/>
 <img src="blob:https://web.whatsapp.com/3f12656b-1997-4bce-b8de-cee5278d6419"/>
 
 
