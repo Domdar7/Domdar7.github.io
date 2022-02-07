@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[City Slums](https://domdar.itch.io/city-sim)
+<img src="https://img.itch.zone/aW1hZ2UvMTI1MTk4OS83MzA3MzMxLnBuZw==/original/wXv2G7.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
