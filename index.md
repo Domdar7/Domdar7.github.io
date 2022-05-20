@@ -14,8 +14,9 @@
 [Let there be photobia](https://callmetoots.itch.io/let-there-be-photophobia)
 <img src="https://images-ext-2.discordapp.net/external/TqSlSJok8Kn9G62pJJblqqDl3lBK4IdLbUv1SobxeyM/https/img.itch.zone/aW1nLzc2NTQ3NTEucG5n/original/B%252FV6Le.png?width=720&height=404"/>
 <br><br>This project was made in 5 days as a part  of an Game Jam.<br><br>
-<br>My Tasks: -Light mechanic <br>
-              -Finishing touches on Level Design
+<br>My Tasks: 
+# Light mechanic <br>
+# Finishing touches on Level Design
 
 ---
 
