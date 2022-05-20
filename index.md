@@ -9,8 +9,6 @@
 <br><br>This project was made during the course of my Unity education.<br><br>
 
 ---
-[Test](/images/snowflake.png)
-<img src="images/snowflake.png?raw=true"/>
 
 ---
 [Let there be photobia](https://callmetoots.itch.io/let-there-be-photophobia)
